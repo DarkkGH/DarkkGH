@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Dan (Darkk), I'm a student from the United Kingdom who studies Information Technology. I am currently interested in Programming and I'm currently learning C#.
 
-### Active Projects: Flappy Bird Esc Game for College, General Website
+### Active Projects: N/A
 
-### Currently Learning: C#, C++
+### Currently Learning: C#, C++, Python
 ### Main Game Engine: Unity
