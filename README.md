@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Dan (Darkk), I'm a ex-student from the United Kingdom who has previously studied an Information Technology Level 3 Diploma. I often program using Languages such as Lua, C# & Python.
+### I'm Dan (Darkk), I'm a soon-to-be student at Leeds Beckett University studying for a BSC (Hons) in Computer Science.
 
-### Active Projects: Voxel Zombie Type Game
+### Active Projects: N/A
 
-### Currently Learning: C#, C++, Python
-### Main Game Engine: Unity
+### Currently Learning: Python, Java.
