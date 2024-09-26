@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Dan (Darkk), I'm a soon-to-be student at Leeds Beckett University studying for a BSC (Hons) in Computer Science.
+### I'm Dan (Darkk), I'm a student at Leeds Beckett University studying for a BSC (Hons) in Computer Science.
 
 ### Active Projects: N/A
 
-### Currently Learning: Python, Java.
+### Currently Learning: Python
