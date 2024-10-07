@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ### Active Projects: N/A
 
-### Currently Learning: Python, Bash, C
+### Currently Learning: Python, HTML & CSS.
 
 # [Personal Website (In Progress)](https://DarkkGH.github.io)
