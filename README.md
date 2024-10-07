@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ### Currently Learning: Python, HTML & CSS.
 
-# [Personal Website (In Progress)](https://DarkkGH.github.io)
+## [Personal Website (In Progress)](https://DarkkGH.github.io)
