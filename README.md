@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### I'm Dan, I'm a student at Leeds Beckett University studying for a BSC (Hons) in Computer Science.
 
-### Active Projects: N/A
+### Active Projects: Portfolio Website
 
-### Currently Learning: Python, Lua/gLua
+### Currently Learning: Python, Java, HTML5 & CSS
 
 ## [Personal Website (In Progress)](https://DarkkGH.github.io)
